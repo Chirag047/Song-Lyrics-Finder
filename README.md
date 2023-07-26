@@ -1,6 +1,5 @@
 # Songs Lyrics Finder
-
-Expanding Cards transition is a CSS and JS Animation template website with unique transitions for pictures. It can be used as a picture album sider in your projects.
+Songs Lyrics Finder is a website that can find any song with the singer with it lyrics page link attached to it. It works on a Lyrics API to fetch the information of the song name and the lyrics page link attached to it. So Explore your fav song and their lyrics at ease!!
 <hr>
 
 ## Working App can be found here

@@ -1,7 +1,7 @@
 # Songs Lyrics Finder
 Songs Lyrics Finder is a website that can find any song and it's singer name with the lyrics page link attached to it. It works on a **Lyrics API** to fetch the information of the song name and the lyrics page link attached to it. So Explore your fav song and their lyrics at ease!!
 <br><br>
-It is responsive on any screen devices so you can access it on any device :)
+It is responsive on every screen devices :)
 <hr>
 
 ## Working Web App can be found here

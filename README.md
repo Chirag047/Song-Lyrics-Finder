@@ -17,7 +17,7 @@ https://song-lyrics-finder.vercel.app/
 
  <hr>
 
-## Demo 
+## Screenshots 
 
 <hr>
 
